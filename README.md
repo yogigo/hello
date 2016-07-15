@@ -1,2 +1,2 @@
 # hello
-the first my github
+the first my github https://help.github.com/pages
